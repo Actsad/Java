@@ -1,4 +1,3 @@
-// ___Author___ = Манаков Василий Владимирович;
 package HomeWork1;
 
 public class HomeWorkApp {
